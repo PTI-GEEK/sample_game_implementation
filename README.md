@@ -1,0 +1,2 @@
+# sample_game_implementation
+Przykładowe repozytorium zgłoszenia implementacji gry
