@@ -11,3 +11,5 @@ Oparta o kod z książki: https://github.com/abixadamj/helion-python/tree/main/R
 - dodać lokalny interpreter Python'a (`venv`)
 - zainstalować bibliotekę pgzero opisaną w pliku `requirements.txt`
 - uruchomić skrypt `source/sample_game.py`
+
+## Proponowany klient Git: https://gitfiend.com/
